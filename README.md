@@ -1,3 +1,7 @@
+# 根据上游的内容，去掉了关于页的广告  
+  
+  
+
 # Clash for Windows Chinese<img src="https://github.com/ender-zhao/Clash-for-Windows_Chinese/blob/main/image/image_clash.png?raw=true" width="30" height="30">
 ### Clash 汉化版
 
